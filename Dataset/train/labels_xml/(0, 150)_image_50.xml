@@ -1,0 +1,1 @@
+<annotation><folder>C:\Users\maria\Env Visao Comp\Waldoo\train\images</folder><filename>(0, 150)_image_50.jpg</filename><size><width>1883</width><height>947</height><depth>3</depth></size><object><name>waldos</name><bndbox><xmin>529</xmin><ymin>534</ymin><xmax>569</xmax><ymax>602</ymax></bndbox></object></annotation>

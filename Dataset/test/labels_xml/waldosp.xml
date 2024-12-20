@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Desktop</folder>
+	<filename>waldosp.jpg</filename>
+	<path>C:\Users\ipimenta\Desktop\waldosp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1754</width>
+		<height>1112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1536</xmin>
+			<ymin>212</ymin>
+			<xmax>1552</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

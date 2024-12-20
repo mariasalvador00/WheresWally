@@ -1,0 +1,1 @@
+<annotation><folder>C:\Users\maria\Env Visao Comp\Waldoo\valid\xml_annotations</folder><filename>val_image_0.jpg</filename><size><width>1772</width><height>1126</height><depth>3</depth></size><object><name>waldos</name><bndbox><xmin>1258</xmin><ymin>371</ymin><xmax>1313</xmax><ymax>427</ymax></bndbox></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><folder>C:\Users\maria\Env Visao Comp\Waldoo\train\images</folder><filename>rotated_image_18.jpg</filename><size><width>1760</width><height>2800</height><depth>3</depth></size><object><name>waldos</name><bndbox><xmin>591</xmin><ymin>1182</ymin><xmax>678</xmax><ymax>1226</ymax></bndbox></object></annotation>

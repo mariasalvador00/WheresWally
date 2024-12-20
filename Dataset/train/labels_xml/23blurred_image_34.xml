@@ -1,0 +1,1 @@
+<annotation><folder>C:\Users\maria\Env Visao Comp\Waldoo\train\images</folder><filename>23blurred_image_34.jpg</filename><size><width>1240</width><height>1754</height><depth>3</depth></size><object><name>waldos</name><bndbox><xmin>247</xmin><ymin>910</ymin><xmax>299</xmax><ymax>1054</ymax></bndbox></object></annotation>
